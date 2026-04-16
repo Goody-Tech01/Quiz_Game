@@ -19,7 +19,7 @@ This is a simple quiz game built using Python and Tkinter. It presents multiple 
 1. Download or clone the repository
 2. Ensure question.json is in the same folder
 3. Run the file:
-    Quiz_Game.py
+    Python Quiz_Game.py
 
 ## Author
 Odion Goodness (Goody-Tech01)
