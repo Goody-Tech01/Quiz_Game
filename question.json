@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What keyword is used to define a function in Python?",
+    "options": ["func", "define", "def", "function"],
+    "answer": "def"
+  },
+
+  {
+    "question": "Which data type is immutable?",
+    "options": ["list", "dictionary", "set", "tuple"],
+    "answer": "tuple"
+ },
+
+  {
+    "question": "What does 'len()' function do?",
+    "options": [
+      "Returns the type of a variable",
+      "Returns the length of an object",
+      "Deletes an object",
+      "Converts to integer"
+    ],
+    "answer": "Returns the length of an object"
+  },
+
+  {
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "#", "/* */", "--"],
+    "answer": "#"
+  },
+
+  {
+    "question": "What is the output of: print(2 ** 3)?",
+    "options": ["6", "8", "9", "5"],
+    "answer": "8"
+  }
+
+ ]
