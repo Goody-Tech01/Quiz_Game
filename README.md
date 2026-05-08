@@ -14,6 +14,11 @@ This is a simple quiz game built using Python and Tkinter. It presents multiple 
 1. Python
 2. Tkinter
 3. JSON
+   
+## Preview
+![Quiz Game 2](Quiz Game2.png)
+![Quiz Game](Quiz Game.png)
+
 
 ## How to Run
 1. Download or clone the repository
