@@ -16,8 +16,8 @@ This is a simple quiz game built using Python and Tkinter. It presents multiple 
 3. JSON
    
 ## Preview
-![Quiz Game 2](Quiz Game2.png)
-![Quiz Game](Quiz Game.png)
+![Quiz Game 2](Quiz_Game2.png)
+![Quiz Game](Quiz_Game.png)
 
 
 ## How to Run
